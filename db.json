@@ -1,0 +1,22 @@
+{
+  "tagvalues": [
+    {
+      "TagValueID": "CD743E2D-CD35-45F5-B352-231415779604",
+      "TagID": "432ED841-380D-47FB-ABCB-01D44EA33CF3",
+      "TagValueName": "Tag Value 1",
+      "TagValueCode": "TV1"
+    },
+    {
+      "TagValueID": "0FA4E306-0D54-477B-A2EA-5E1956B495D4",
+      "TagID": "DDEBF672-72C3-4878-8038-0214645AE1FF",
+      "TagValueName": "Tag Value 2",
+      "TagValueCode": "TV2"
+    },
+    {
+      "TagValueID": "5F7FB880-FDC6-49F7-BE16-6962D3382058",
+      "TagID": "866DB605-1900-4011-BB85-5B5465D28768",
+      "TagValueName": "Tag Value 3",
+      "TagValueCode": "TV3"
+    }
+  ]
+}
